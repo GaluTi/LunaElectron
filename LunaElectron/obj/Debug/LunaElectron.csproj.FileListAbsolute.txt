@@ -1,0 +1,10 @@
+D:\Programming\C#\LunaElectron\LunaElectron\LunaElectron\bin\Debug\LunaElectron.exe.config
+D:\Programming\C#\LunaElectron\LunaElectron\LunaElectron\bin\Debug\LunaElectron.exe
+D:\Programming\C#\LunaElectron\LunaElectron\LunaElectron\bin\Debug\LunaElectron.pdb
+D:\Programming\C#\LunaElectron\LunaElectron\LunaElectron\obj\Debug\LunaElectron.csproj.AssemblyReference.cache
+D:\Programming\C#\LunaElectron\LunaElectron\LunaElectron\obj\Debug\LunaElectron.Properties.Resources.resources
+D:\Programming\C#\LunaElectron\LunaElectron\LunaElectron\obj\Debug\LunaElectron.csproj.GenerateResource.cache
+D:\Programming\C#\LunaElectron\LunaElectron\LunaElectron\obj\Debug\LunaElectron.csproj.CoreCompileInputs.cache
+D:\Programming\C#\LunaElectron\LunaElectron\LunaElectron\obj\Debug\LunaElectron.exe
+D:\Programming\C#\LunaElectron\LunaElectron\LunaElectron\obj\Debug\LunaElectron.pdb
+D:\Programming\C#\LunaElectron\LunaElectron\LunaElectron\obj\Debug\LunaElectron.Form1.resources
